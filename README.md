@@ -31,12 +31,4 @@ A tiny, terminal-based Sudoku designed for my technical portfolio. It generates 
   - `help`  — show all commands
   - `q`     — quit
 
-## Suggested Portfolio Description
-**Mini Sudoku (4x4) — Python CLI Game**  
-A lightweight Sudoku game built in pure Python. Implements a backtracking solver, unique-solution puzzle generation, and a simple command-line interface with move validation, hints, and auto-solve. Built to demonstrate algorithmic thinking (backtracking, constraint checks) and clean CLI UX.
-
-## Optional: Add a Screenshot
-Run the game and take a screenshot of the terminal for your portfolio.
-
-## License
-MIT
+## Enjoy
